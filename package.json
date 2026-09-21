@@ -1,0 +1,17 @@
+{
+  "name": "test-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "idpay-b2b-sdk": "^2.2.2",
+    "serve": "^14.2.6"
+  }
+}
